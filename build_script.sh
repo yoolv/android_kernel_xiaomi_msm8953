@@ -3,8 +3,8 @@
 export ARCH=arm64
 export SUBARCH=arm64
 export HEADER_ARCH=arm64
-export PATH="${HOME}/miinguri/Documents/Kernel/proton-clang-master/bin:${PATH}"
-export STRIP="${HOME}/miinguri/Documents/Kernel/proton-clang-master/bin/strip"
+export PATH="${HOME}/Documents/Kernel/proton-clang-master/bin:${PATH}"
+export STRIP="${HOME}/Documents/Kernel/proton-clang-master/bin/strip"
 
 if [[ -d "out" ]]
 then
